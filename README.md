@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Currently a Second Semester Student at GIKI. Love problem solving and always open to learning more.
 <!--
 **HT-fm08/HT-fm08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
