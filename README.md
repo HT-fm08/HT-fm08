@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Currently a Second Semester Student at GIKI. Love problem solving and always open to learning more.
 <!--
